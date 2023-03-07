@@ -6,7 +6,7 @@ This analysis was curled from Alex's the analysis Excel project, it aims to find
 The tools used for this analysis includes;
 - Filtering
 - Removing duplicates
-- Manipulating the age, i.e  categoring the age into adolescent, mid-age and old.
+- Manipulating the age, i.e  categorizing the ages into adolescent, mid-age and old.
 - Pivot table
 - Pivot Chart
 - Slicers.
