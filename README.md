@@ -20,4 +20,4 @@ Insights gotten from the analysis are as follows;
 - Customers staying 0-1 mile away purchased the highest bikes,
 
 
-![alt txt](https://github.com/ju-li4et/Bike_sales_report/blob/main/Bike%20sales.png)
+![alt txt](https://github.com/ju-li4et/Bike_sales_report/blob/main/Bike%20sales%20Analysis.png)
