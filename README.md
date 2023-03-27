@@ -3,7 +3,9 @@
 
 This analysis was curled from Alex's the analysis Excel project, it aims to find out which factors affects the sales of bike from this data.
 
-The tools used for this analysis includes;
+## The Data
+
+## The tools used for this analysis includes;
 - Filtering
 - Removing duplicates
 - Manipulating the age, i.e  categorizing the ages into adolescent, mid-age and old.
@@ -11,7 +13,8 @@ The tools used for this analysis includes;
 - Pivot Chart
 - Slicers.
 
-Insights gotten from the analysis are as follows;
+## Insights gotten from the analysis are as follows;
+
 - Males purchased more bikes than females.
 - Single people purchase are higher than the married.
 - Income is not a factor that prevents the married customers from purchasing  bikes as there were customers that earned more but did purhase any bikes.
