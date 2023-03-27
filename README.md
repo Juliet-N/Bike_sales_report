@@ -1,4 +1,5 @@
 # Bike_sales_report
+![alt txt](https://github.com/Juliet-N/Bike_sales_report/blob/main/Bike.jpg.crdownload)
 
 
 This analysis was curled from Alex's the analysis Excel project, it aims to find out which factors affects the sales of bike from this data.
