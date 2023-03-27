@@ -2,7 +2,8 @@
 ![alt txt](https://github.com/Juliet-N/Bike_sales_report/blob/main/Bike.jpg.crdownload)
 
 
-This analysis was curled from Alex's the analysis Excel project, it aims to find out which factors affects the sales of bike from this data.
+## Case Study:
+The company wanted me to analyses the bike sales in this company. Derive insightful KPI's that affects the sales of bike and give further insights about the data
 
 ## The Data
 
